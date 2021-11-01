@@ -1,1 +1,1 @@
-# screenshare
+# This is a webapp for sharing a user's screen with another user.
